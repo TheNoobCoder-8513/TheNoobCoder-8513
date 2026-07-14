@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20there." alt="Welcome Banner" />
   
   <h1>Hi, I'm Anshuman Kumar 👋</h1>
 </div>
