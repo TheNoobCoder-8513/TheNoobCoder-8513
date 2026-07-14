@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+real-time+systems+using+C%2B%2B+and+Python;Developing+Low-level+systems;Linux+desktop+application+development" alt="Typing Effect Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Developing+Low-level+systems;Linux+desktop+application+development" alt="Typing Effect Banner" />
 </div>
 
 <div align="center">
