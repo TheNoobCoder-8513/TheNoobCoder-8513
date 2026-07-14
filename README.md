@@ -1,11 +1,7 @@
 <div align="center">
-  <br />
-  <samp>
-    <h1>🚀 Welcome to My Development Space</h1>
-  </samp>
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" alt="Welcome Banner" />
   
-  <h2>Hi, I'm Anshuman Kumar 👋</h2>
-  <p><i>B.Tech in Computer Science & Engineering</i></p>
+  <h1>Hi, I'm Anshuman Kumar 👋</h1>
 </div>
 
 <div align="center">
