@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn" alt="Welcome Banner" />
+  <br />
+  <samp>
+    <h1>🚀 Welcome to My Development Space</h1>
+  </samp>
   
-  <h1>Hi, I'm Anshuman Kumar 👋</h1>
+  <h2>Hi, I'm Anshuman Kumar 👋</h2>
+  <p><i>B.Tech in Computer Science & Engineering</i></p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Developing+Low-level+systems;Linux+desktop+application+development" alt="Typing Effect Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+real-time+systems+using+C%2B%2B+and+Python;Developing+Low-level+systems;Linux+desktop+application+development" alt="Typing Effect Banner" />
 </div>
 
 <div align="center">
