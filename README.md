@@ -77,8 +77,22 @@ A dynamic, multi-role C++ mesh network protocol engineered on **ESP32** hardware
 
 # Personal Projects
 
+## [Expenses-PlusPlus](https://github.com/TheNoobCoder-8513/Expenses-PlusPlus)
+**Lightweight Local-First Desktop Financial Manager**
+
+![Lightweight Local-First Desktop Financial Manager](https://private-user-images.githubusercontent.com/172195674/617190454-ac826214-0351-4fd4-b244-bf976d785fa0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0NzY5MjgsIm5iZiI6MTc4NTQ3NjYyOCwicGF0aCI6Ii8xNzIxOTU2NzQvNjE3MTkwNDU0LWFjODI2MjE0LTAzNTEtNGZkNC1iMjQ0LWJmOTc2ZDc4NWZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMVQwNTQzNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYThhNThlN2ExNTBmYjNiMzliM2U5YzRhNTliMTVlYzY2MTg0NzUwYTFhYzk0NTZlYWZjOTk0MjI3MzMyMGYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.1_9b4Z3qmQz8t_M0HdbQVt1-nHOxjJJi1k79eRLhBkU)
+
+A High-Performance Desktop App for Daily Financial Tracking
+* Built with a modern decoupled architecture combining **Slint UI** for native presentation logic and a **Python** backend.
+* Features low memory usage and local-first data privacy powered by a local **SQLite3** transactional ledger engine.
+* Implements dynamic income/expense logging, dynamic savings goals tracking, and categorized monthly spending breakdowns.
+* Includes an interactive custom grid calendar breakdown for daily activity lookups and real-time balance calculations.
+
 ## [Deck++](https://github.com/TheNoobCoder-8513/Deck-PlusPlus)
-**Ultra-Responsive DIY Macro-Pad Ecosystem** \
+**Ultra-Responsive DIY Macro-Pad Ecosystem**
+
+![Ultra-Responsive DIY Macro-Pad Ecosystem](https://private-user-images.githubusercontent.com/172195674/608898828-b0b59a0d-52e6-4a62-ac61-89b789eb7d24.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0NzY3NDQsIm5iZiI6MTc4NTQ3NjQ0NCwicGF0aCI6Ii8xNzIxOTU2NzQvNjA4ODk4ODI4LWIwYjU5YTBkLTUyZTYtNGE2Mi1hYzYxLTg5Yjc4OWViN2QyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMVQwNTQwNDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmJiODgyZmRlNWVkYmM3MGVmNmI4ZGQ3Y2FhNTIwZmNiYmZjYmQ0ZGU1OGMwYTAyMGI1NmM3MDJjMzczYWMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.sXS3t4hfjnwB6JTwuEAOUfUAJDLRJWiZZUSXrLiuCwY)
+
 A modular hardware and software ecosystem combining custom embedded firmware with a native desktop control suite. 
 * Designed and built a 4x3 matrix-based macro-pad using an ESP32 along with Rust + C++ + Slint based
 desktop application
@@ -88,15 +102,21 @@ tactics in desktop application
 
 
 ## [SysInfo](https://github.com/TheNoobCoder-8513/SysInfo) 
-**Lightweight Linux System Monitor** \
-A modern, resource-efficient system monitor tailored for Linux desktops built with **Rust** and **Slint**.
-* A Modern System Resource Monitor for daily-users
+**Lightweight Linux System Monitor** 
+
+![Lightweight Linux System Monitor](https://github.com/TheNoobCoder-8513/SysInfo/raw/main/screenshots/Screenshot%20From%202026-01-31%2020-17-39.png)
+
+A Modern System Resource Monitor for daily-users
+* A modern, resource-efficient system monitor tailored for Linux desktops built with **Rust** and **Slint**.
 * Powered By Rust’s memory-safety guarantees and Slint for GUI
 * GUI is built from scratch in Slint’s DSL, writing own each higher level component’s design and functionality,
 such as UsageCharts, StackTab and more
 
 ## [Connect](https://github.com/TheNoobCoder-8513/Connect)
-**Phonebook for Linux** \
+**Phonebook for Linux**
+
+![Phonebook for Linux](https://private-user-images.githubusercontent.com/172195674/337983443-fd5bd05c-a188-4b8c-b2ce-a637ba971fc1.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0NzY2NTksIm5iZiI6MTc4NTQ3NjM1OSwicGF0aCI6Ii8xNzIxOTU2NzQvMzM3OTgzNDQzLWZkNWJkMDVjLWExODgtNGI4Yy1iMmNlLWE2MzdiYTk3MWZjMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDczMVQwNTM5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYWI3NjA0NDU4MDc5ODUwMmMzMzE2MWFhNzIzMmU1ZTQ0NGRiMjQ4ZGE4ZjMwZDEyZjlhNjA1YzU3ZDI2YmI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.lvEtmqpqhE8Eaey2r5OYRr2FfvW2-02xVC3qmY1q70c)
+
 A simple to use phone book written using C and GTK4
 * Plain text file based storage for file operations
 * Learnt working of low-level filesystem, input events and Data Structures for efficient storage
