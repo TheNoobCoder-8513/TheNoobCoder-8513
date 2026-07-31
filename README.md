@@ -88,6 +88,8 @@ A High-Performance Desktop App for Daily Financial Tracking
 * Implements dynamic income/expense logging, dynamic savings goals tracking, and categorized monthly spending breakdowns.
 * Includes an interactive custom grid calendar breakdown for daily activity lookups and real-time balance calculations.
 
+<br>
+
 ## [Deck++](https://github.com/TheNoobCoder-8513/Deck-PlusPlus)
 **Ultra-Responsive DIY Macro-Pad Ecosystem**
 
@@ -100,6 +102,7 @@ desktop application
 * Added Real-time Macro testing, Active-assign, Rapid global profile assignment, Modern and Defensive UI
 tactics in desktop application 
 
+<br>
 
 ## [SysInfo](https://github.com/TheNoobCoder-8513/SysInfo) 
 **Lightweight Linux System Monitor** 
@@ -111,6 +114,8 @@ A Modern System Resource Monitor for daily-users
 * Powered By Rust’s memory-safety guarantees and Slint for GUI
 * GUI is built from scratch in Slint’s DSL, writing own each higher level component’s design and functionality,
 such as UsageCharts, StackTab and more
+
+<br>
 
 ## [Connect](https://github.com/TheNoobCoder-8513/Connect)
 **Phonebook for Linux**
