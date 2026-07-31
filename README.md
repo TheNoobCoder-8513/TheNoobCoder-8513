@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20there." alt="Welcome Banner" />
   
-  <h1>Hi, I'm Anshuman Kumar 👋</h1>
+  <h1>Hi, I'm Anshuman Kumar</h1>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a software engineer focused on constructing air-gapped platforms, low-level systems, high-performance C++/Rust architectures, and local AI/LLM pipelines. Currently interning at **IDR Research and Development Pvt. Ltd.**, I specialize in engineering air-gapped decision support systems, low-latency geospatial platforms, offline embedded mesh networks, and native Linux desktop interfaces.
 
@@ -31,7 +31,7 @@ I am a software engineer focused on constructing air-gapped platforms, low-level
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Programming & Scripting Languages**
 C • C++11/14/17 • Rust • Python 3.x • BASH
@@ -53,33 +53,33 @@ Docker • Git • Linux • CMake • Meson • GCC • Clang suite • Sysprof
 
 ---
 
-## 🔥 Featured High-Impact Projects
+## Featured High-Impact Projects
 
-### 🛡️ Granite — Air-Gapped Geospatial Analysis Platform
+### Granite — Air-Gapped Geospatial Analysis Platform
 A 100% air-gapped geospatial tactical platform built using **C++** and **MapLibre GL** for low-latency offline spatial rendering without external dependencies.
 * Powered by hybrid **C++ & Rust** background services for real-time spatial indexing, low-latency event processing, offline tile rendering, and **PostGIS** storage.
 * Integrates local **Ollama-based LLMs** and Python pipelines for spatial clustering, time-series analysis, and regional tactical event summarization.
 
-### 🎯 Naviq — Offline Decision Support & Wargaming Engine
+### Naviq — Offline Decision Support & Wargaming Engine
 An offline strategic precedent and decision support platform designed for mission-critical deployments using **Ollama**, **AnythingLLM**, and **Docker**.
 * Features a tactical wargaming simulation engine leveraging **Python**, **Ollama**, and **LanceDB** to predict tactical moves and generate IRAC-aligned counter-strategies.
 * Includes an end-to-end unstructured data extraction pipeline (**pyMuPDF**, **Camelot**, **PaddleOCR**) packaged alongside containerized GGUF local model runtimes.
 
-### 📡 Wi-Fi Mesh Network with Auto-Healing
+### Wi-Fi Mesh Network with Auto-Healing
 A dynamic, multi-role C++ mesh network protocol engineered on **ESP32** hardware for fault-tolerant node communication.
 * Features a custom application protocol with packet drop detection, checksum validation, and self-healing mechanisms to instantly handle master node failures during operation.
 
-### 🛠️ Deck++ — Ultra-Responsive DIY Macro-Pad Ecosystem
+### Deck++ — Ultra-Responsive DIY Macro-Pad Ecosystem
 A modular hardware and software ecosystem combining custom embedded firmware with a native desktop control suite.
 * Built with a 4x3 matrix layout running on **ESP32** teamed with a **Rust + C++ + Slint** GUI executing high-speed polling, ghosting prevention, real-time macro testing, and active profile switching.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/Deck--)
 
-### 📊 SysInfo — Lightweight Linux System Monitor
+### SysInfo — Lightweight Linux System Monitor
 A modern, resource-efficient system monitor tailored for Linux desktops built with **Rust** and **Slint**.
 * Leverages Rust’s memory-safety guarantees for process & memory monitoring, coupled with custom DSL components like `UsageCharts` and `StackTabs` built entirely from scratch.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/SysInfo)
 
-### 💬 ConnecTupp — Native Multithreaded Chat Engine
+### ConnecTupp — Native Multithreaded Chat Engine
 A lightweight, Linux-native messaging application implementing custom application-level protocols over raw **POSIX sockets**.
 * Features multithreaded data transmission, direct system calls, and a responsive **GTK** frontend interface.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/ConnecTupp)
