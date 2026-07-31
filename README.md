@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+real-time+systems+using+C%2B%2B+and+Python;Developing+Low-level+systems;Linux+desktop+application+development" alt="Typing Effect Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Air-Gapped+Systems+%26+Tactical+Platforms;Low-Level+Systems+%26+High-Performance+C%2B%2B%2FRust;Edge+AI%2C+Vector+DBs+%26+Geospatial+Engines;Native+Linux+Desktop+Applications" alt="Typing Effect Banner" />
 </div>
 
 <div align="center">
@@ -22,51 +22,67 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer and a final year Computer Science and Engineering student focused on constructing high-performance architectures, low-level systems, and native Linux desktop environments. With a strong foundation in systems programming and embedded networks, I enjoy transforming complex low-level requirements into responsive, modern applications. 
+I am a software engineer focused on constructing air-gapped platforms, low-level systems, high-performance C++/Rust architectures, and local AI/LLM pipelines. Currently interning at **IDR Research and Development Pvt. Ltd.**, I specialize in engineering air-gapped decision support systems, low-latency geospatial platforms, offline embedded mesh networks, and native Linux desktop interfaces.
 
-* **Focus Areas:** Systems Architecture • Embedded Firmware • Real-Time Systems • Native GUI Engineering
+* 💼 **Current Role:** R&D Engineering Intern at IDR Research and Development Pvt. Ltd.
 * 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering at ITS Engineering College
-* ⚙️ **Current Interests:** Advanced C++ optimizations, systems programming with Rust, native application architectures via GTK & Slint, and Linux Kernel space interaction.
-* 🤝 **Open To:** I am actively seeking full-time **Internships and Job opportunities** where I can contribute to core systems and low-level software engineering challenges.
+* ⚙️ **Focus Areas:** Systems Architecture • Air-Gapped AI Infrastructure • Low-Latency Geospatial Engines • Embedded Mesh Networks • Native GUI Engineering
+* 🤝 **Open To:** Full-time **Software Engineering / Systems / AI Infrastructure Opportunities** where I can solve complex core engineering and low-level system challenges.
 
 ---
 
 ## 🧠 Tech Stack
 
 **Programming & Scripting Languages**
-C • C++11/14/17 • Rust • BASH • Python
+C • C++11/14/17 • Rust • Python 3.x • BASH
 
-**Frameworks & Desktop UI Libraries**
-POSIX • GTK • GStreamer • Qt • Arduino • Slint
+**AI, Machine Learning & Vector DBs**
+PyTorch • TensorFlow • Scikit-Learn • Transformers • LangChain • Ollama • LanceDB • Qdrant • ChromaDB
 
-**C++ & Python Libraries**
-Drogon • MapLibreGL • Matplot++ • PortAudio • Flask • Kivy • FastAPI • Matplotlib • Seaborn • IO
+**Systems, GUI & Frameworks**
+POSIX • GTK • Slint • GStreamer • Qt • MapLibreGL (C++) • Drogon • Arduino
 
-**Databases & Drivers**
-MySQL • PostgreSQL • MongoDB • SQLite • XDEVapi
+**Data Engineering & Parsing**
+pyMuPDF • PaddleOCR • pytesseract • Pillow • Camelot • Streamlit • Kivy • FastAPI • Matplot++ • NumPy • Pandas • SciPy
 
-**Build Systems & Tools**
-CMake • Meson • GCC • Clang suite • Dia • Sysprof • Figma • Doxygen • Postman • DBeaver
+**Databases & Spatial Engines**
+PostgreSQL • PostGIS • MongoDB • MySQL • SQLite
+
+**DevOps, Tools & Build Systems**
+Docker • Git • Linux • CMake • Meson • GCC • Clang suite • Sysprof • Doxygen • Postman • DBeaver • Lunacy • Dia
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured High-Impact Projects
 
-### 🛠️ Deck++
-A modular, ultra-responsive DIY macro-pad ecosystem consisting of custom embedded hardware and accompanying desktop customization software. Features a 4x3 matrix layout built using an **ESP32** alongside a **Rust**, **C++**, and **Slint** based desktop panel executing high-speed polling, ghosting prevention, real-time macro testing, and active profile assignment.
+### 🛡️ Granite — Air-Gapped Geospatial Analysis Platform
+A 100% air-gapped geospatial tactical platform built using **C++** and **MapLibre GL** for low-latency offline spatial rendering without external dependencies.
+* Powered by hybrid **C++ & Rust** background services for real-time spatial indexing, low-latency event processing, offline tile rendering, and **PostGIS** storage.
+* Integrates local **Ollama-based LLMs** and Python pipelines for spatial clustering, time-series analysis, and regional tactical event summarization.
+
+### 🎯 Naviq — Offline Decision Support & Wargaming Engine
+An offline strategic precedent and decision support platform designed for mission-critical deployments using **Ollama**, **AnythingLLM**, and **Docker**.
+* Features a tactical wargaming simulation engine leveraging **Python**, **Ollama**, and **LanceDB** to predict tactical moves and generate IRAC-aligned counter-strategies.
+* Includes an end-to-end unstructured data extraction pipeline (**pyMuPDF**, **Camelot**, **PaddleOCR**) packaged alongside containerized GGUF local model runtimes.
+
+### 📡 Wi-Fi Mesh Network with Auto-Healing
+A dynamic, multi-role C++ mesh network protocol engineered on **ESP32** hardware for fault-tolerant node communication.
+* Features a custom application protocol with packet drop detection, checksum validation, and self-healing mechanisms to instantly handle master node failures during operation.
+
+### 🛠️ Deck++ — Ultra-Responsive DIY Macro-Pad Ecosystem
+A modular hardware and software ecosystem combining custom embedded firmware with a native desktop control suite.
+* Built with a 4x3 matrix layout running on **ESP32** teamed with a **Rust + C++ + Slint** GUI executing high-speed polling, ghosting prevention, real-time macro testing, and active profile switching.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/Deck--)
 
-### 📊 SysInfo
-A modern, lightweight system resource monitor designed for everyday Linux users. It leverages **Rust's** memory-safety guarantees for data collection and utilizes **Slint's** DSL to draw customized, granular UI components like UsageCharts and StackTabs completely from scratch.
+### 📊 SysInfo — Lightweight Linux System Monitor
+A modern, resource-efficient system monitor tailored for Linux desktops built with **Rust** and **Slint**.
+* Leverages Rust’s memory-safety guarantees for process & memory monitoring, coupled with custom DSL components like `UsageCharts` and `StackTabs` built entirely from scratch.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/SysInfo)
 
-### 💬 ConnecTupp
-A lightweight chat application built natively for Linux environments entirely from scratch. Implements a custom application-level protocol over raw **POSIX sockets** to drive user-to-user and group messaging, powered by a **GTK-based** front-end utilizing multithreaded data transmission and lower-level system calls.
+### 💬 ConnecTupp — Native Multithreaded Chat Engine
+A lightweight, Linux-native messaging application implementing custom application-level protocols over raw **POSIX sockets**.
+* Features multithreaded data transmission, direct system calls, and a responsive **GTK** frontend interface.
 👉 [View Repository](https://github.com/TheNoobCoder-8513/ConnecTupp)
-
-### 🔊 VirtAudio Cable
-A virtual audio routing engine designed for Linux routing management. Written in **C++** with a **Qt** user interface, it interacts with pipes and system audio streams to let users seamlessly combine multiple independent audio inputs into a singular unified virtual source device.
-👉 [View Repository](https://github.com/TheNoobCoder-8513/TheNoobCoder-8513)
 
 ---
 
